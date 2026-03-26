@@ -57,14 +57,14 @@ Raw CSV → PostgreSQL → Python EDA → ML Model → Power BI Dashboard
 ## Dashboard Preview
 
 ### Page 1 — Executive Overview
-![!\[Executive Overview\](reports/01_churn_overview.png)](DashboardGif/overview1.gif)
+![!\[!\\[Executive Overview\\](reports/01_churn_overview.png)\](DashboardGif/overview1.gif)](Screenshots/DashboardGif/overview1.gif)
 
 ### Page 2 — Churn Deep Dive
-![!\[Churn Deep Dive\](reports/02_churn_by_features.png)](DashboardGif/deepdive.gif)
+![!\[!\\[Churn Deep Dive\\](reports/02_churn_by_features.png)\](DashboardGif/deepdive.gif)](Screenshots/DashboardGif/deepdive.gif)
 
 ### Page 3 — Customer Risk Monitor
-![!\[Customer Risk Monitor\](reports/03_correlation_heatmap.png)](DashboardGif/customerAtRisk.gif)
-
+![!\[!\\[Customer Risk Monitor\\](reports/03_correlation_heatmap.png)\](DashboardGif/customerAtRisk.gif)
+](Screenshots/DashboardGif/customerAtRisk.gif)
 ---
 
 ## Model Performance
