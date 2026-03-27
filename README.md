@@ -1,6 +1,9 @@
 # SaaS Churn Signal System
 
 > Predicting customer churn before it happens — using SQL, Python, and Machine Learning
+>
+
+![SaasChurnWorkFlow](https://github.com/user-attachments/assets/69580e3b-0a7d-476a-ae8b-561ed8cffad2)
 
 ---
 
@@ -27,30 +30,6 @@ This project answers three questions:
 | 871 customers flagged High Risk | $138.88K MRR immediately at risk |
 | Fiber optic churn = 41.89% | Product quality issue for top-tier users |
 | First 12 months = highest risk | Onboarding experience needs urgent fix |
-
----
-
-## Project Architecture
-```
-Raw CSV → PostgreSQL → Python EDA → ML Model → Power BI Dashboard
-```
-
----
-
-## Tech Stack
-
-| Tool | Purpose |
-|---|---|
-| PostgreSQL + pgAdmin | Data storage + SQL analysis |
-| Python + Pandas | Data cleaning + EDA |
-| Scikit-learn | Churn prediction model (Random Forest) |
-| Lifelines | Kaplan-Meier survival analysis |
-| SHAP | Model explainability |
-| Power BI | 3-page interactive dashboard |
-
----
-
-
 
 ---
 
